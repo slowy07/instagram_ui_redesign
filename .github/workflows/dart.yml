@@ -17,5 +17,3 @@ jobs:
 
       - name: Print Dart SDK version
         run: dart --version
-      - name: Analyze project source
-        run: dart analyze
