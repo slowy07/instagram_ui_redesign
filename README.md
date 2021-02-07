@@ -5,7 +5,8 @@
 [![license](https://img.shields.io/github/license/slowy07/instagram_ui_redesign?style=for-the-badge)](LICENSE)
 
 
-![<img src="screenshoot/instagram.png"/>]()
+![image](./screnshoot/instagram.png)
+
 source image [dribble by Manoj Rajput](https://dribbble.com/shots/6349659-Instagram-redesign-concept/attachments)
 
 
